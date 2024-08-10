@@ -9,6 +9,8 @@ Requirements for the software and other tools to build, test, and push:
 1. **Zomato Dataset**: Analysis of Zomato transactions across different countries.
 2. **Flight Price Prediction Dataset**: Prediction of flight prices based on various features.
 3. **Black Friday Dataset**: Analysis of customer purchase behavior.
+4. **Google Play Store Dataset**: Insights into app categories, installs, and more from the Google Play Store.
+5. **Red Wine Quality Dataset**: Evaluation of wine quality based on physicochemical properties.
 
 ### **Automated EDA Techniques**
 
